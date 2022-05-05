@@ -1,0 +1,56 @@
+msgid "wifisi"
+msgstr "YUNYI WiFi 简易设置"
+
+msgid "hint"
+msgstr "YUNYI温馨提示您的WiFi不要设置成中文名称，以免造成有些设备搜索不到WiFi"
+
+msgid "WiFi name"
+msgstr "WiFi名称"
+
+msgid "encryption type"
+msgstr "加密类型"
+
+msgid "not encrypted"
+msgstr "不加密"
+
+msgid "psk"
+msgstr "PSK加密"
+
+msgid "psk"
+msgstr "PSK加密"
+
+msgid "password"
+msgstr "密码"
+
+msgid "Password must be at least 8 characters"
+msgstr "密码至少需要设置成8位"
+
+msgid "route management address"
+msgstr "路由管理地址"
+
+msgid "lan interface"
+msgstr "LAN 接口"
+
+msgid "router IP"
+msgstr "路由器 IP"
+
+msgid "Impersonate hostname"
+msgstr "模拟主机名"
+
+msgid "Produced by YUNYI"
+msgstr "YUNYI 制作"
+
+msgid "Analog device name"
+msgstr "模拟设备名"
+
+msgid "IP set up"
+msgstr "管理IP设置"
+
+msgid "xiaoyuanwang"
+msgstr "YUNYI 校园网"
+
+msgid "wangluo"
+msgstr "运行与网络状态"
+
+msgid "wuxian"
+msgstr "本插件由捕捉一只制作"
