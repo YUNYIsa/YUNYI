@@ -1,4 +1,0 @@
-本插件win10ui修改而来http://win10ui.yuri2.cn/
-适用于openwrt luci
-1编译进系统需要改index.lua14行page.target = template("win10")  {关键本人半吊子，不会做op主题}
-2使用方法编译成ipk再安装到路由器
